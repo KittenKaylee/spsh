@@ -1,7 +1,7 @@
 from os import *
 
 def rc():
-	name = "diaperd33r"
+	name = ""
 	style = "d33rfav"
 
 	if style == "d33rfav":
